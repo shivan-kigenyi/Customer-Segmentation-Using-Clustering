@@ -29,7 +29,7 @@ Python (Pandas, Matplotlit, Numpy, Seaborn)
 Scikit-learn
 Jupyter Notebook
 
-## Key Finding (to be edited)
+## Key Finding 
 Identified 4 customer segments with distinct behaviors
 - Segment 1: Young, high spenders with moderate income
 - Segment 2: Older, high-income but low spenders
